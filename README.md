@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98235a&height=80&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi%2C+I'm+kodeti+;Software+Engineer;UI%2FUX+Designer;Game+Developer" alt="Software Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=98235a&width=435&lines=Hi%2C+I'm+kodeti+;Software+Engineer;UI%2FUX+Designer;Game+Developer" alt="Software Engineer"/>
 </a>
 
 **Hi! I'm Andrew** - a web developer, game developer, UI/UX designer, and musician. I am a freshman studying computer science. Welcome to my profile!
