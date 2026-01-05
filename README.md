@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98235a&height=80&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98235a&height=20&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=98235a&width=435&lines=Hi%2C+I'm+kodeti+;Software+Engineer;UI%2FUX+Designer;Game+Developer" alt="Software Engineer"/>
 </a>
 
-**Hi! I'm Andrew** - a web developer, game developer, UI/UX designer, and musician. I am a freshman studying computer science. Welcome to my profile!
+**Hi! I'm Andrew** - a freshman studying computer science, web developer, game developer, UI/UX designer, and pianist. I have previously worked as a SWE intern and currently work part-time as a web developer for an EdTech studio. Welcome to my profile!
 
 ### Main skills
 [![Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,php,angular,react,laravel,vite,sass,tailwind,nodejs,jest,bash,godot,robloxstudio,lua,git,gradle,docker,gherkin,jenkins,blender,ai,ps,figma)](https://skillicons.dev)
