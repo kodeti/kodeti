@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98235a&height=200&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98235a&height=100&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg" style="margin-top: -4em">
+<a href="https://git.io/typing-svg" style="margin-top: -200px">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=98235a&width=435&lines=Hi%2C+I'm+kodeti+;Software+Engineer;UI%2FUX+Designer;Game+Developer" alt="Software Engineer"/>
 </a>
 
