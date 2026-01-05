@@ -1,4 +1,10 @@
-hi, I'm a mediocre designer and programmer, welcome to my profile
+Hi! I'm a web/gamedev, UI/UX designer, and musician. Welcome to my profile!
+
+Languages:
+`C++, Java, JavaScript/TypeScript, PHP, Lua, SQL, HTML/CSS`
+
+Web Frameworks:
+`React, Angular, React Native, Laravel, Livewire`
 
 <!--
 **kodeti/kodeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
