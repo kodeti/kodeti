@@ -7,7 +7,7 @@
 **Hi! I'm Andrew** - a freshman studying computer science, web developer, game developer, UI/UX designer, and pianist.<br><br>Welcome to my profile!
 
 ### Main skills
-[![Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,php,angular,react,laravel,vite,sass,tailwind,nodejs,jest,bash,godot,robloxstudio,lua,git,gradle,docker,gherkin,jenkins,blender,ai,ps,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,ts,php,angular,react,laravel,vite,sass,tailwind,nodejs,jest,bash,godot,robloxstudio,lua,git,gradle,docker,gherkin,jenkins,blender,ai,ps,figma)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
