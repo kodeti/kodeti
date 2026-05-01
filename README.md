@@ -6,6 +6,8 @@
 
 **Hi! I'm Andrew** - a computer science student, web developer, game developer, UI/UX designer, and pianist.<br><br>Welcome to my profile!
 
+Incoming SWE Intern @ Roblox!
+
 ### Main skills
 [![Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,ts,php,angular,react,laravel,vite,sass,tailwind,nodejs,jest,bash,godot,robloxstudio,lua,git,gradle,docker,gherkin,jenkins,blender,ai,ps,figma)](https://skillicons.dev)
 
